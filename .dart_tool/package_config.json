@@ -224,13 +224,13 @@
       "languageVersion": "3.2"
     },
     {
-      "name": "resume_builder",
+      "name": "interview_resume_builder",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2024-02-21T07:45:01.366446Z",
+  "generated": "2024-02-21T07:54:23.049662Z",
   "generator": "pub",
   "generatorVersion": "3.2.6"
 }
