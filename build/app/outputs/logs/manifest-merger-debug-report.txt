@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 application
-INJECTED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/main/AndroidManifest.xml:2:5-32:19
-MERGED from [:cloud_firestore] /home/darshan_j/StudioProjects/resume_builder/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
-MERGED from [:cloud_firestore] /home/darshan_j/StudioProjects/resume_builder/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
-MERGED from [:firebase_core] /home/darshan_j/StudioProjects/resume_builder/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
-MERGED from [:firebase_core] /home/darshan_j/StudioProjects/resume_builder/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+INJECTED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/main/AndroidManifest.xml:2:5-32:19
+MERGED from [:cloud_firestore] /home/darshan_j/StudioProjects/interview_resume_builder/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:cloud_firestore] /home/darshan_j/StudioProjects/interview_resume_builder/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_core] /home/darshan_j/StudioProjects/interview_resume_builder/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_core] /home/darshan_j/StudioProjects/interview_resume_builder/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
 MERGED from [com.google.firebase:firebase-firestore:24.9.1] /home/darshan_j/.gradle/caches/transforms-3/cdcc585bf5bfb7b79234bf5eb0173e42/transformed/jetified-firebase-firestore-24.9.1/AndroidManifest.xml:13:5-24:19
 MERGED from [com.google.firebase:firebase-firestore:24.9.1] /home/darshan_j/.gradle/caches/transforms-3/cdcc585bf5bfb7b79234bf5eb0173e42/transformed/jetified-firebase-firestore-24.9.1/AndroidManifest.xml:13:5-24:19
 MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/darshan_j/.gradle/caches/transforms-3/c9048a169e1b7f286a01eae6f43312f9/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:8:5-16:19
@@ -30,15 +30,15 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/darsh
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] /home/darshan_j/.gradle/caches/transforms-3/d08c73bfb05384f2e52578171dbd141e/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 	android:name
-		INJECTED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/main/AndroidManifest.xml
 manifest
-ADDED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/main/AndroidManifest.xml:1:1-33:12
-INJECTED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/main/AndroidManifest.xml:1:1-33:12
-INJECTED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/main/AndroidManifest.xml:1:1-33:12
-INJECTED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/main/AndroidManifest.xml:1:1-33:12
-MERGED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/main/AndroidManifest.xml:1:1-33:12
-MERGED from [:cloud_firestore] /home/darshan_j/StudioProjects/resume_builder/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
-MERGED from [:firebase_core] /home/darshan_j/StudioProjects/resume_builder/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
+ADDED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:cloud_firestore] /home/darshan_j/StudioProjects/interview_resume_builder/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:firebase_core] /home/darshan_j/StudioProjects/interview_resume_builder/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
 MERGED from [com.google.firebase:firebase-firestore:24.9.1] /home/darshan_j/.gradle/caches/transforms-3/cdcc585bf5bfb7b79234bf5eb0173e42/transformed/jetified-firebase-firestore-24.9.1/AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/darshan_j/.gradle/caches/transforms-3/c9048a169e1b7f286a01eae6f43312f9/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:2:1-18:12
 MERGED from [com.google.firebase:firebase-common:20.4.2] /home/darshan_j/.gradle/caches/transforms-3/29429379be0edfde063e43fae29f4d1b/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:15:1-41:12
@@ -69,31 +69,31 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/darshan_j/.grad
 MERGED from [io.grpc:grpc-android:1.52.1] /home/darshan_j/.gradle/caches/transforms-3/7df17f40b977b34a8de69a8d8b3a8c8d/transformed/jetified-grpc-android-1.52.1/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/darshan_j/.gradle/caches/transforms-3/56935c5bc69408dff3e60aa338a1e3f1/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/darshan_j/.gradle/caches/transforms-3/02315cc9f75263553d2042718fc375ee/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 	package
-		INJECTED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/main/AndroidManifest.xml:1:1-33:12
-		INJECTED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/main/AndroidManifest.xml:1:1-33:12
-		INJECTED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/debug/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/main/AndroidManifest.xml:1:1-33:12
-		INJECTED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-sdk
-INJECTED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/main/AndroidManifest.xml
-MERGED from [:cloud_firestore] /home/darshan_j/StudioProjects/resume_builder/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:cloud_firestore] /home/darshan_j/StudioProjects/resume_builder/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:firebase_core] /home/darshan_j/StudioProjects/resume_builder/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:firebase_core] /home/darshan_j/StudioProjects/resume_builder/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/main/AndroidManifest.xml
+MERGED from [:cloud_firestore] /home/darshan_j/StudioProjects/interview_resume_builder/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:cloud_firestore] /home/darshan_j/StudioProjects/interview_resume_builder/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] /home/darshan_j/StudioProjects/interview_resume_builder/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] /home/darshan_j/StudioProjects/interview_resume_builder/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-firestore:24.9.1] /home/darshan_j/.gradle/caches/transforms-3/cdcc585bf5bfb7b79234bf5eb0173e42/transformed/jetified-firebase-firestore-24.9.1/AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-firestore:24.9.1] /home/darshan_j/.gradle/caches/transforms-3/cdcc585bf5bfb7b79234bf5eb0173e42/transformed/jetified-firebase-firestore-24.9.1/AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/darshan_j/.gradle/caches/transforms-3/c9048a169e1b7f286a01eae6f43312f9/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:5:5-44
@@ -154,24 +154,24 @@ MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/darsha
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /home/darshan_j/.gradle/caches/transforms-3/56935c5bc69408dff3e60aa338a1e3f1/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/darshan_j/.gradle/caches/transforms-3/02315cc9f75263553d2042718fc375ee/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/darshan_j/.gradle/caches/transforms-3/02315cc9f75263553d2042718fc375ee/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/debug/AndroidManifest.xml
-INJECTED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/debug/AndroidManifest.xml:6:5-66
+ADDED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/debug/AndroidManifest.xml:6:5-66
 MERGED from [com.google.firebase:firebase-firestore:24.9.1] /home/darshan_j/.gradle/caches/transforms-3/cdcc585bf5bfb7b79234bf5eb0173e42/transformed/jetified-firebase-firestore-24.9.1/AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-firestore:24.9.1] /home/darshan_j/.gradle/caches/transforms-3/cdcc585bf5bfb7b79234bf5eb0173e42/transformed/jetified-firebase-firestore-24.9.1/AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from /home/darshan_j/StudioProjects/resume_builder/android/app/src/debug/AndroidManifest.xml:6:22-64
+		ADDED from /home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/debug/AndroidManifest.xml:6:22-64
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:cloud_firestore] /home/darshan_j/StudioProjects/resume_builder/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
-MERGED from [:firebase_core] /home/darshan_j/StudioProjects/resume_builder/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
-MERGED from [:firebase_core] /home/darshan_j/StudioProjects/resume_builder/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+ADDED from [:cloud_firestore] /home/darshan_j/StudioProjects/interview_resume_builder/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_core] /home/darshan_j/StudioProjects/interview_resume_builder/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_core] /home/darshan_j/StudioProjects/interview_resume_builder/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
 MERGED from [com.google.firebase:firebase-firestore:24.9.1] /home/darshan_j/.gradle/caches/transforms-3/cdcc585bf5bfb7b79234bf5eb0173e42/transformed/jetified-firebase-firestore-24.9.1/AndroidManifest.xml:14:9-23:19
 MERGED from [com.google.firebase:firebase-firestore:24.9.1] /home/darshan_j/.gradle/caches/transforms-3/cdcc585bf5bfb7b79234bf5eb0173e42/transformed/jetified-firebase-firestore-24.9.1/AndroidManifest.xml:14:9-23:19
 MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/darshan_j/.gradle/caches/transforms-3/c9048a169e1b7f286a01eae6f43312f9/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:9:9-15:19
@@ -185,19 +185,19 @@ MERGED from [com.google.firebase:firebase-common:20.4.2] /home/darshan_j/.gradle
 	android:directBootAware
 		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/darshan_j/.gradle/caches/transforms-3/29429379be0edfde063e43fae29f4d1b/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:32:13-43
 	android:name
-		ADDED from [:cloud_firestore] /home/darshan_j/StudioProjects/resume_builder/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:10:18-89
+		ADDED from [:cloud_firestore] /home/darshan_j/StudioProjects/interview_resume_builder/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:10:18-89
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
-ADDED from [:cloud_firestore] /home/darshan_j/StudioProjects/resume_builder/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+ADDED from [:cloud_firestore] /home/darshan_j/StudioProjects/interview_resume_builder/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 	android:value
-		ADDED from [:cloud_firestore] /home/darshan_j/StudioProjects/resume_builder/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+		ADDED from [:cloud_firestore] /home/darshan_j/StudioProjects/interview_resume_builder/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 	android:name
-		ADDED from [:cloud_firestore] /home/darshan_j/StudioProjects/resume_builder/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-134
+		ADDED from [:cloud_firestore] /home/darshan_j/StudioProjects/interview_resume_builder/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-134
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
-ADDED from [:firebase_core] /home/darshan_j/StudioProjects/resume_builder/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+ADDED from [:firebase_core] /home/darshan_j/StudioProjects/interview_resume_builder/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 	android:value
-		ADDED from [:firebase_core] /home/darshan_j/StudioProjects/resume_builder/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+		ADDED from [:firebase_core] /home/darshan_j/StudioProjects/interview_resume_builder/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 	android:name
-		ADDED from [:firebase_core] /home/darshan_j/StudioProjects/resume_builder/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
+		ADDED from [:firebase_core] /home/darshan_j/StudioProjects/interview_resume_builder/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-firestore:24.9.1] /home/darshan_j/.gradle/caches/transforms-3/cdcc585bf5bfb7b79234bf5eb0173e42/transformed/jetified-firebase-firestore-24.9.1/AndroidManifest.xml:10:5-79
 MERGED from [io.grpc:grpc-android:1.52.1] /home/darshan_j/.gradle/caches/transforms-3/7df17f40b977b34a8de69a8d8b3a8c8d/transformed/jetified-grpc-android-1.52.1/AndroidManifest.xml:9:5-79

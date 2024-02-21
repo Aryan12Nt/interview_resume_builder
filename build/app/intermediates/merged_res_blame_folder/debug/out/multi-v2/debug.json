@@ -1233,7 +1233,24 @@
                     }
                 },
                 {
-                    "source": "/home/darshan_j/StudioProjects/resume_builder/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/darshan_j/.gradle/caches/transforms-3/55b4e390742817dc4b9653e42d791034/transformed/jetified-play-services-basement-18.1.0/res/values/values.xml",
+                    "from": {
+                        "startLines": "4,7",
+                        "startColumns": "0,0",
+                        "startOffsets": "243,406",
+                        "endColumns": "63,166",
+                        "endOffsets": "306,572"
+                    },
+                    "to": {
+                        "startLines": "99,109",
+                        "startColumns": "4,4",
+                        "startOffsets": "6042,7220",
+                        "endColumns": "67,166",
+                        "endOffsets": "6105,7382"
+                    }
+                },
+                {
+                    "source": "/home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -1249,23 +1266,6 @@
                         "endLines": "123,126",
                         "endColumns": "12,12",
                         "endOffsets": "8760,8929"
-                    }
-                },
-                {
-                    "source": "/home/darshan_j/.gradle/caches/transforms-3/55b4e390742817dc4b9653e42d791034/transformed/jetified-play-services-basement-18.1.0/res/values/values.xml",
-                    "from": {
-                        "startLines": "4,7",
-                        "startColumns": "0,0",
-                        "startOffsets": "243,406",
-                        "endColumns": "63,166",
-                        "endOffsets": "306,572"
-                    },
-                    "to": {
-                        "startLines": "99,109",
-                        "startColumns": "4,4",
-                        "startOffsets": "6042,7220",
-                        "endColumns": "67,166",
-                        "endOffsets": "6105,7382"
                     }
                 },
                 {
@@ -1756,7 +1756,7 @@
             "outputFile": "com.example.resume_builder.app-merged_res-14:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "/home/darshan_j/StudioProjects/resume_builder/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

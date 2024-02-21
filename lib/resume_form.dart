@@ -1,6 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:resume_builder/model.dart';
+import 'package:interview_resume_builder/model.dart';
 import 'package:sizer/sizer.dart';
 
 class ResumeForm extends StatefulWidget {

@@ -4,7 +4,7 @@
             "outputFile": "com.example.resume_builder.app-mergeDebugResources-12:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/darshan_j/StudioProjects/resume_builder/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/darshan_j/StudioProjects/interview_resume_builder/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
